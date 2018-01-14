@@ -1,0 +1,74 @@
+html {
+      height: 100%;
+    }
+    body {
+       text-align:center;
+       #page-wrap{
+         text-align:left;
+         width: 800px;
+         height: 0 auto;
+       }
+       width: 800px;
+       height: 100%;
+    }
+
+    header {
+        background-color:#00CD66 ;
+        padding: 5px ;
+        border: 3px solid black;
+        font-size:30 ;
+        display: block;
+    }
+    nav {
+        float: left;
+        width: 99%;
+        border: 3px solid black;
+      padding: 5px;
+      background-color: #43cd80 ;
+    }
+    nav ul {
+        padding: ;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 70px 8px 200px;
+        vertical-align: middle;
+    }
+    a {
+        color:black;
+    }
+    section {
+      background-color:;
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+   <img = ducklings.jpg>
+{
+rotation-point:50% 50%;
+rotation:180deg;
+}
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
